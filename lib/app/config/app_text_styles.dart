@@ -1,0 +1,1 @@
+// Định nghĩa các kiểu văn bản dùng chung.

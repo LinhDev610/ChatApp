@@ -1,0 +1,1 @@
+// Chứa các service toàn cục như quản lý phiên làm việc, gửi thông báo, hoặc log.
